@@ -1,3 +1,8 @@
+'''
+  @author:xiaoyuxuanran
+  @date:2024/08/02 10:19
+  @location:China Shandong Liaocheng Linqing LEGO robot activity center
+'''
 class student:
     def __init__(self,tel,name,num,grade,point):
         self.tel=tel
